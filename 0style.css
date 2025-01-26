@@ -1,0 +1,15 @@
+h1 {
+    margin: -8px;
+    padding: 8px;
+    color: white;
+    background-color: rgb(166, 22, 22);
+  }
+
+a {
+    text-decoration: none;
+    color: black;
+  }
+
+#top-page {
+    color: white;
+}
